@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn Post Architect",
+  "description": "A high-performance LinkedIn post analyzer built with React and Gemini 3 Pro, providing algorithmic diagnostics and content strategy.",
+  "requestFramePermissions": []
+}
